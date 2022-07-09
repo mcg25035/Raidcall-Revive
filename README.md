@@ -8,7 +8,8 @@
 
 🌐 README Languages
 >&emsp;&nbsp;[⚝]　English<br>
-&emsp;&nbsp;[　]　[中文繁體]((https://github.com/mcg25035/Raidcall-Revive/blob/main/README/README_TC.md))<br>
+&emsp;&nbsp;[　]　[中文繁體](https://github.com/mcg25035/Raidcall-Revive/blob/main/README/README_TC.md)
+<br>
 &emsp;&nbsp;[　]　[中文簡体](https://github.com/mcg25035/Raidcall-Revive/blob/main/README/README_SC.md)
 
 <br><br>
