@@ -1,31 +1,27 @@
-# <img src="https://media.discordapp.net/attachments/763787703958372402/992710401643003934/unknown.png" width=48>**Minecraft Datapack Sharing Platform 2**<br>
+# <img src="https://media.discordapp.net/attachments/879008540839256134/995393684776439808/unknown.png" width=48> **復活 RC語音**
+<br>
+❕ 本 README.md 是專案最後一次維護的兩年後 2022/07/10 添加上去的。<br>
+❗ 此項專案尚未完成且已經停止開發。<br>
+<br>
 &nbsp;
 
-
-🌐 README 語言
-
->&emsp;&nbsp;[　]　[English](https://github.com/mcg25035/Minecraft-Datapack-Sharing-Platform-2/blob/main/README.md)<br>
+🌐 README Languages
+>&emsp;&nbsp;[　]　[English](https://github.com/mcg25035/Raidcall-Revive/blob/main/README_TC.md)<br>
 &emsp;&nbsp;[⚝]　中文繁體<br>
-&emsp;&nbsp;[　]　[中文簡体](https://github.com/mcg25035/Minecraft-Datapack-Sharing-Platform-2/blob/main/README/README_SC.md)
+&emsp;&nbsp;[　]　[中文簡体](https://github.com/mcg25035/Raidcall-Revive/blob/main/README/README_SC.md)
+
+<br><br>
+<img src="https://media.discordapp.net/attachments/763787703958372402/992695856492982352/unknown.png" width=16> Introdution
+
+>&emsp;&nbsp;我是RaidCall語音通訊軟體的愛好者，現在(2020年 9月)他停止服務，我想用我當時所會的程式能力(Python Tkinter)來重寫一個。同時我也在製作這個專案的過程，接觸到socket並且完成一次伺服器與客戶端的通訊！
 
 <br><br>
 
-<img src="https://media.discordapp.net/attachments/763787703958372402/992695856492982352/unknown.png" width=16> 介紹
+<img src="https://cdn.discordapp.com/attachments/763787703958372402/992716242706255932/unknown.png" width=17> Install
 
->&emsp;&nbsp;這個資料包分享平台能幫助人們更容易的上傳資料包、找到別人製作的資料包且一鍵安裝至地圖資料夾
-
-<br><br>
-
-<img src="https://cdn.discordapp.com/attachments/763787703958372402/992716242706255932/unknown.png" width=17> 安裝
-
->&emsp;&nbsp; [ <img src="https://cdn.iconscout.com/icon/free/png-256/windows-221-1175066.png" width=12> 窗戶]()<br>
->&emsp;&nbsp; [ <img src="https://media.discordapp.net/attachments/763787703958372402/992718211399299132/unknown.png" width=12 > 企鵝]()<br>
->&emsp;&nbsp; [ <img src="https://media.discordapp.net/attachments/763787703958372402/992718435693891595/unknown.png" width=12> 蘋果]()
-
-<br><br>
-
-🔗 安裝執行檔覺得很危險不想裝？我們有網頁版！
->&emsp;&nbsp;[點我前往]()
+>&emsp;&nbsp; 沒有任何釋出的版本
 
 
 
+
+ 

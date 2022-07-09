@@ -1,31 +1,23 @@
-# <img src="https://media.discordapp.net/attachments/763787703958372402/992710401643003934/unknown.png" width=48>**Minecraft Datapack Sharing Platform 2**<br>
+ 
+# <img src="https://media.discordapp.net/attachments/879008540839256134/995393684776439808/unknown.png" width=48> **复活 RC语音**
+<br>
+❕ 本 README.md 是专案最后一次维护的两年后 2022/07/10 添加上去的。 <br>
+❗ 此项专案尚未完成且已经停止开发。 <br>
+<br>
 &nbsp;
 
-🌐 README 语言
-
->&emsp;&nbsp;[　]　[English](https://github.com/mcg25035/Minecraft-Datapack-Sharing-Platform-2/blob/main/README.md)<br>
-&emsp;&nbsp;[　]　[中文繁體](https://github.com/mcg25035/Minecraft-Datapack-Sharing-Platform-2/blob/main/README/README_TC.md)<br>
+🌐 README Languages
+>&emsp;&nbsp;[　]　[English](https://github.com/mcg25035/Raidcall-Revive/blob/main/README_TC.md)<br>
+&emsp;&nbsp;[　]　[中文繁体](https://github.com/mcg25035/Raidcall-Revive/blob/main/README/README_SC.md)<br>
 &emsp;&nbsp;[⚝]　中文简体
 
 <br><br>
+<img src="https://media.discordapp.net/attachments/763787703958372402/992695856492982352/unknown.png" width=16> Introdution
 
-<img src="https://media.discordapp.net/attachments/763787703958372402/992695856492982352/unknown.png" width=16> 介绍
-
->&emsp;&nbsp;这个资料包
-分享平台能帮助人们更容易的上传资料包、找到别人制作的资料包且一键安装至地图资料夹
+>&emsp;&nbsp;我是RaidCall语音通讯软体的爱好者，现在(2020年 9月)他停止服务，我想用我当时所会的程式能力(Python Tkinter)来重写一个。同时我也在制作这个专案的过程，接触到socket并且完成一次伺服器与客户端的通讯！
 
 <br><br>
 
-<img src="https://cdn.discordapp.com/attachments/763787703958372402/992716242706255932/unknown.png" width=17> 安装
+<img src="https://cdn.discordapp.com/attachments/763787703958372402/992716242706255932/unknown.png" width=17> Install
 
->&emsp;&nbsp; [ <img src="https://cdn.iconscout.com/icon/free/png-256/windows-221-1175066.png" width=12> 窗户]()<br>
->&emsp;&nbsp; [ <img src="https://media.discordapp.net/attachments/763787703958372402/992718211399299132/unknown.png" width=12 >  企鹅]()<br>
->&emsp;&nbsp; [ <img src="https://media.discordapp.net/attachments/763787703958372402/992718435693891595/unknown.png" width=12> 苹果]()
-
-<br><br>
-
-🔗 安装执行档觉得很危险不想装？我们有网页版！
->&emsp;&nbsp;[点我前往]()
-
-
-
+>&emsp;&nbsp; 没有任何释出的版本
