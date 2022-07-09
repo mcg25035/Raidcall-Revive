@@ -6,9 +6,9 @@
 &nbsp;
 
 🌐 README Languages
->&emsp;&nbsp;[　]　[English](https://github.com/mcg25035/Raidcall-Revive/blob/main/README_TC.md)<br>
+>&emsp;&nbsp;[　]　[English](https://github.com/mcg25035/Raidcall-Revive/blob/master/README.md)<br>
 &emsp;&nbsp;[⚝]　中文繁體<br>
-&emsp;&nbsp;[　]　[中文簡体](https://github.com/mcg25035/Raidcall-Revive/blob/main/README/README_SC.md)
+&emsp;&nbsp;[　]　[中文簡体](https://github.com/mcg25035/Raidcall-Revive/blob/master/README/README_SC.md)
 
 <br><br>
 <img src="https://media.discordapp.net/attachments/763787703958372402/992695856492982352/unknown.png" width=16> Introdution
