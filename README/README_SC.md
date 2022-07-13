@@ -1,7 +1,7 @@
  
 # <img src="https://media.discordapp.net/attachments/879008540839256134/995393684776439808/unknown.png" width=48> **复活 RC语音**
 <br>
-❕ 本 README.md 是专案最后一次维护的两年后 2022/07/10 添加上去的。 <br>
+❕ 本 README.md 是专案最后一次维护的两年后 2020/10/05 添加上去的。 <br>
 ❗ 此项专案尚未完成且已经停止开发。 <br>
 <br>
 &nbsp;
