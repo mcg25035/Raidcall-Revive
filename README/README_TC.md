@@ -1,6 +1,6 @@
 # <img src="https://media.discordapp.net/attachments/879008540839256134/995393684776439808/unknown.png" width=48> **復活 RC語音**
 <br>
-❕ 本 README.md 是專案最後一次維護的兩年後 2022/07/10 添加上去的。<br>
+❕ 本 README.md 是專案最後一次維護的兩年後 2020/10/05 添加上去的。<br>
 ❗ 此項專案尚未完成且已經停止開發。<br>
 <br>
 &nbsp;
