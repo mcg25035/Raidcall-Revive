@@ -1,7 +1,7 @@
  
 # <img src="https://media.discordapp.net/attachments/879008540839256134/995393684776439808/unknown.png" width=48> **Revive RaidCall**
 <br>
-❕ This README.md file is written after that when the project lastest edit. (2022/07/10)<br>
+❕ This README.md file is written after that when the project lastest edit. (2020/10/05)<br>
 ❗ The project is no longer maintained , and it is unfinished!<br>
 <br>
 &nbsp;
